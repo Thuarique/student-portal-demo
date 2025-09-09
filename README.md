@@ -1,2 +1,2 @@
-# student-portal-demo
-It has About Student portal demo 
+# Day 1 tasks
+It has the Tasks of the day 1
